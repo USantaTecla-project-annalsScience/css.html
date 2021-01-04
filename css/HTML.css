@@ -1,0 +1,69 @@
+body {
+    background-color: black;
+    margin: 1% 10% 0% 10%;
+}
+a {
+    color:orange;
+}
+
+h1 {
+    border: 1px solid orange;
+    text-align: center;
+    color: orange;
+}
+
+#both {
+    width: 100%;
+   
+}
+
+
+#left {
+    float: left;
+    width: 30%;
+}
+
+#data {
+    text-align: center;
+    color: orange;
+}
+
+#image {
+    width: 100%;
+}
+
+#right {
+    float: right;
+    width: 65%;
+    height: 500px;
+    margin: 10px;
+}
+
+
+#details {
+    width: 100%;
+    
+
+}
+
+#entities {
+    width: 40%;
+    float:right;
+    margin: 10px;
+    
+}
+
+.entity {
+    float: right;
+    
+}
+
+#persons {
+    width: 40%;
+    float:left;
+    margin: 10px;
+}
+
+.person {
+    float:left;
+}

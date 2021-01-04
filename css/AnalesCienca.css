@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    margin: 1% 10% 0% 10%;
+}
+
+nav {
+    color:orange;
+    margin-bottom: 40px;
+}
+
+h1 {
+    border: 1px solid orange;
+    text-align: center;
+    color: orange;
+}
+
+#columns {
+    width: 100%;
+    padding: 10px;
+    font-size: 24px;
+}
+
+.column {
+    text-align: center;
+    width: 20%;
+    margin-right: 13%;
+    color:orange;
+    float: left;
+}
+
+.element {
+    margin-bottom: 15px;
+}
